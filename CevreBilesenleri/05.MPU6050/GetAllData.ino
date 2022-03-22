@@ -1,4 +1,4 @@
-
+//Kod Bana ait değildir. Arduino IDE üzerinden import edilmiştir.
 #include <MPU6050_tockn.h>
 #include <Wire.h>
 
